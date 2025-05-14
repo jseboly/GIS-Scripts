@@ -1,2 +1,2 @@
 # GIS-Scripts
-Miscellaneous GIS scripts to automate workflows associated with utility/infrastructure work.
+Miscellaneous scripts to automate various GIS workflows using open-source GIS libraries.
